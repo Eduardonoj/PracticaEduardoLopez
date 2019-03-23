@@ -1,0 +1,11 @@
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.csprojAssemblyReference.cache
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.csproj.CoreCompileInputs.cache
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.AssemblyInfoInputs.cache
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.AssemblyInfo.cs
+C:\Users\programacion\Documents\modulos\eduardolopez\bin\Debug\netcoreapp2.2\eduardolopez.deps.json
+C:\Users\programacion\Documents\modulos\eduardolopez\bin\Debug\netcoreapp2.2\eduardolopez.runtimeconfig.json
+C:\Users\programacion\Documents\modulos\eduardolopez\bin\Debug\netcoreapp2.2\eduardolopez.runtimeconfig.dev.json
+C:\Users\programacion\Documents\modulos\eduardolopez\bin\Debug\netcoreapp2.2\eduardolopez.dll
+C:\Users\programacion\Documents\modulos\eduardolopez\bin\Debug\netcoreapp2.2\eduardolopez.pdb
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.dll
+C:\Users\programacion\Documents\modulos\eduardolopez\obj\Debug\netcoreapp2.2\eduardolopez.pdb
